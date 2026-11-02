@@ -39,7 +39,7 @@ service, same MCP tools):
 ## Prerequisites
 
 - The **module 1** studio and its connection in Open WebUI (repository
-  [`clic-par-clic-studio3d-01-studio-mcp`](https://github.com/guilhem-/clic-par-clic-studio3d-01-studio-mcp)):
+  [`clic-par-clic-studio3d-01-studio-mcp`](https://github.com/guilhembon/clic-par-clic-studio3d-01-studio-mcp)):
   this module starts from there. You can also start from scratch by following steps 4 and 5 of the
   module 1 README for the connection and the model.
 - Docker, `kubectl` and a Kubernetes cluster. The video uses **k3d** (cluster `tterm`, Traefik
@@ -139,10 +139,10 @@ service, same MCP tools):
 ## Next in the series
 
 - Previous module: **A 3D studio for the whole organization** — repository
-  [`clic-par-clic-studio3d-01-studio-mcp`](https://github.com/guilhem-/clic-par-clic-studio3d-01-studio-mcp).
+  [`clic-par-clic-studio3d-01-studio-mcp`](https://github.com/guilhembon/clic-par-clic-studio3d-01-studio-mcp).
 - Next module: **Monitoring the studio with Grafana** (Prometheus metrics, dashboard and alert
   provisioned from files) — repository
-  [`clic-par-clic-studio3d-03-grafana`](https://github.com/guilhem-/clic-par-clic-studio3d-03-grafana).
+  [`clic-par-clic-studio3d-03-grafana`](https://github.com/guilhembon/clic-par-clic-studio3d-03-grafana).
 
 ## License
 
